@@ -1,0 +1,28 @@
+@font-face {
+    font-family:UniNeueBlack;
+    src: url("../css/fonts/UniNeueBlack.ttf");
+}
+@font-face {
+    font-family:UniNeueBold;
+    src: url("../css/fonts/UniNeueBold.ttf");
+}
+@font-face {
+    font-family:UniNeueBook;
+    src: url("../css/fonts/UniNeueBook.ttf");
+}
+@font-face {
+    font-family:UniNeueHeavy;
+    src: url("../css/fonts/UniNeueHeavy.ttf");
+}
+@font-face {
+    font-family:UniNeueLight;
+    src: url("../css/fonts/UniNeueLight.ttf");
+}
+@font-face {
+    font-family:UniNeueRegular;
+    src: url("../css/fonts/UniNeueRegular.ttf");
+}
+@font-face {
+    font-family:UniNeueThin;
+    src: url("../css/fonts/UniNeueThin.ttf");
+}
